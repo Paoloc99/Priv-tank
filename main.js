@@ -1,4 +1,4 @@
-import * as BABYLON from 'babylonjs';
+import * as BABYLON from '@babylonjs/core';
 import HavokPhysics from './js/physics/HavokPhysics_es';
 
 import Obstacles from './js/obstacles';

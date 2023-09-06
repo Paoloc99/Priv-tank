@@ -1,5 +1,6 @@
 export default {
     optimizeDeps: {
-        include: ["babylonjs", "babylonjs-gui"],
+        include: ["@babylonjs/core", "@babylonjs/gui"],
     },
+    base: '/Priv-tank/'
 };
