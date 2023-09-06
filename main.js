@@ -1,8 +1,8 @@
 import * as BABYLON from 'babylonjs';
-import HavokPhysics from './physics/HavokPhysics_es';
+import HavokPhysics from './js/physics/HavokPhysics_es';
 
-import Obstacles from './obstacles';
-import Tank from './tank';
+import Obstacles from './js/obstacles';
+import Tank from './js/tank';
 
 
 class CustomLoadingScreen {
