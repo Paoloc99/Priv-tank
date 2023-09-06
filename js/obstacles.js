@@ -1,4 +1,4 @@
-import * as BABYLON from './js/@babylonjs/core';
+import * as BABYLON from 'babylonjs';
 
 
 class Obstacles {

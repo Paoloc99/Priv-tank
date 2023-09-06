@@ -1,5 +1,5 @@
-import * as BABYLON from './js/@babylonjs/core';
-import { AdvancedDynamicTexture, Rectangle } from '@babylonjs/gui';
+import * as BABYLON from 'babylonjs';
+import { AdvancedDynamicTexture, Rectangle } from 'babylonjs-gui';
 
 class Tank {
     
